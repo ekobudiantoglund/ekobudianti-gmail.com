@@ -1,0 +1,2 @@
+# ekobudianti-gmail.com
+Hi  We’re starting an inner source project and we’re looking to use contributing.md to show guidelines and principles to how teams can contribute to our project.  However, the links that are rendered in the Create Issue and New PR UI’s seem to point to the initial commit of our contributing.md file (which was purely a placeholder) as opposed to the most current version in our main branch with actual content.  Is this by design or a known issue?  Thanks
